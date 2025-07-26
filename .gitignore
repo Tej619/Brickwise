@@ -1,1 +1,4 @@
 api/node_modules
+api/.DS_Store
+/generated/prisma
+.env
